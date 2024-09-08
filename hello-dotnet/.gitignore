@@ -1,0 +1,5 @@
+.idea/
+.vs/
+.vscode/
+hello-dotnet/bin/
+hello-dotnet/obj/
